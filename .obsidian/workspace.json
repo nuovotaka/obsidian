@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "3df984d4bc1ea6cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f772d6eb2d3a62c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c2d23620bcecd64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c50e0643cc8df506",
+    "type": "split",
+    "children": [
+      {
+        "id": "c77271e75a3b384f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7baecd1b2a61e045",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e394a06d99057957",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d6bb1de4ac96cbb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef00d6a42940338e",
+    "type": "split",
+    "children": [
+      {
+        "id": "08efc6f13086ea42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f88ad3723557b7b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Test Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6c48192e5e148ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Test Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5af22b3619206500",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51972bb3d661f517",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Test Obsidian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2c2d23620bcecd64",
+  "lastOpenFiles": []
+}
