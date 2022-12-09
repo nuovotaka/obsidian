@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Obsidian.md",
+                "file": "_posts/2022-12-09-Yabai-skhd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Obsidian.md",
+                "file": "_posts/2022-12-09-Yabai-skhd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Obsidian.md",
+                "file": "_posts/2022-12-09-Yabai-skhd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Obsidian.md"
+                "file": "_posts/2022-12-09-Yabai-skhd.md"
               }
             }
           }
@@ -137,5 +137,9 @@
     "collapsed": true
   },
   "active": "2c2d23620bcecd64",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_posts/2022-12-09-Yabai-skhd.md",
+    "Test.md",
+    "Test Obsidian.md"
+  ]
 }
