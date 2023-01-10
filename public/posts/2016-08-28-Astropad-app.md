@@ -1,18 +1,18 @@
 ---
-title: 'Astropad Graphics Tablet App'
+title: "Astropad Graphics Tablet App"
 description: Astropad App
-date: '2016-08-28'
-modified_date: '2016-08-28'
-image: /assets/images/posts/random-img.jpg
+created: "2016-08-28"
+updated: "2016-08-28"
 ---
 
 ## Astropad アプリ
-iPadをMac専用の液タブに変えるアプリ。
 
-著名なアプリに対応しているので最近私が使っているAffinityなどにも対応している。
+iPad を Mac 専用の液タブに変えるアプリ。
 
-そう、このソフトはMacが必須となるのでご注意を。
-そして、iPad Proとスタイラスがあるとさらに良い状況で作業ができる優れものです。
+著名なアプリに対応しているので最近私が使っている Affinity などにも対応している。
+
+そう、このソフトは Mac が必須となるのでご注意を。
+そして、iPad Pro とスタイラスがあるとさらに良い状況で作業ができる優れものです。
 
 ペンタブレットといえばワコムのものが思い浮かびますが必要なさそうですね。
 

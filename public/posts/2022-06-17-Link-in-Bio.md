@@ -1,16 +1,16 @@
 ---
-title: 'Next.jsでLink in Bioを作成しました'
+title: "Next.jsでLink in Bioを作成しました"
 description: Bio Nextjs Tailwind css Typescript
-date: '2022-06-17'
-modified_date: '2022-06-17'
-image: /assets/images/posts/nextjs-starter-banner.png
+created: "2022-06-17"
+updated: "2022-06-17"
 ---
 
-## Link in Bioとは
+## Link in Bio とは
 
-SNSやブログなど、複数のURLを1つにまとめるサービスです。
+SNS やブログなど、複数の URL を 1 つにまとめるサービスです。
 
-Link in Bioでまとめられる主なSNSサービスは以下
+Link in Bio でまとめられる主な SNS サービスは以下
+
 - Twitter
 - Instagram
 - Facebook
@@ -19,14 +19,16 @@ Link in Bioでまとめられる主なSNSサービスは以下
 - Line
 - note
 - pinterest
-など
+  など
 
-### 参考githubファイル
+### 参考 github ファイル
+
 [Next-js-Landing-starter-Boilerplate](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template)
 
-### 私の作成したgithubファイル
+### 私の作成した github ファイル
+
 [Link-in-Bio](https://github.com/nuovotaka/link_in_bio_2022)
 
-tailwindcssの設定がおかしいのはご愛嬌。
-snsのアイコンが凸凹になっていますがご自身で直せるかたならどうぞ。
+tailwindcss の設定がおかしいのはご愛嬌。
+sns のアイコンが凸凹になっていますがご自身で直せるかたならどうぞ。
 バックグラウンドの画像は、商用利用可の画像を利用しています。

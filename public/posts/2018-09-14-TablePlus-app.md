@@ -1,16 +1,16 @@
 ---
-title: 'App TablePlus'
+title: "App TablePlus"
 description: TablePlus for Mac
-date: '2018-09-14'
-modified_date: '2018-09-14'
-image: /assets/images/posts/random-img.jpg
+created: "2018-09-14"
+updated: "2018-09-14"
 ---
 
 ## TablePlus for Mac
-MySQLを操作できるアプリ。
 
-Docker開発でMySQLの操作をするのに便利。
-GUIベースのアプリケーション。
-MySQL8.0対応
+MySQL を操作できるアプリ。
+
+Docker 開発で MySQL の操作をするのに便利。
+GUI ベースのアプリケーション。
+MySQL8.0 対応
 
 [TablePlus](https://tableplus.io/)

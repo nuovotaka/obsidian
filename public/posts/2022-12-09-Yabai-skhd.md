@@ -1,9 +1,8 @@
 ---
 title: "タイル画面表示のYabaiとそれを操作するショートカットコマンドskhd"
 description: タイル画面表示 Yabai skhd
-date: "2022-12-09"
-modified_date: "2022-12-09"
-image: /assets/images/posts/nextjs-starter-banner.png
+created: "2022-12-09"
+updated: "2022-12-09"
 ---
 
 ## Yabai and skhd

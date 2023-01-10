@@ -1,16 +1,16 @@
 ---
-title: 'App Sequel Pro'
+title: "App Sequel Pro"
 description: Sequel Pro for Mac
-date: '2017-11-04'
-modified_date: '2017-11-04'
-image: /assets/images/posts/random-img.jpg
+created: "2017-11-04"
+updated: "2017-11-04"
 ---
 
 ## Sequel Pro for Mac
-MySQLを操作できるアプリ。
 
-Docker開発でMySQLの操作をするのに便利。
-GUIベースのアプリケーション。
-ssh接続も対応しているのでVagrantを利用した開発環境でも利用可能。
+MySQL を操作できるアプリ。
+
+Docker 開発で MySQL の操作をするのに便利。
+GUI ベースのアプリケーション。
+ssh 接続も対応しているので Vagrant を利用した開発環境でも利用可能。
 
 [Sequel Pro](https://www.sequelpro.com/)

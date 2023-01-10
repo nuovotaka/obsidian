@@ -1,12 +1,11 @@
 ---
-title: 'First Post'
+title: "First Post"
 description: github マークダウン
-date: '2015-11-05'
-modified_date: '2015-11-05'
-image: /assets/images/posts/random-img.jpg
+created: "2015-11-05"
+updated: "2015-11-05"
 ---
 
-githubからマークダウンで投稿をしています。
+github からマークダウンで投稿をしています。
 
 ![記事](@@baseUrl@@/assets/images/posts/pen-small.jpg)
 
