@@ -7,6 +7,6 @@ updated: "2015-11-05"
 
 github からマークダウンで投稿をしています。
 
-![記事](@@baseUrl@@/assets/signature.png)
+![記事](/assets/signature.png)
 
 これからこちらで投稿をしていきたいと思います。
