@@ -1,6 +1,7 @@
 ---
 title: "【世界で７万人が受講】Understanding TypeScript 日本語版"
 teacher: "Yota Hamada, Maximillian Schwarzmuller"
+school: "Udemy"
 created: "2022-10-01"
 updated: "2022-10-01"
 description: TypeScript Reactjs Webpack Nodejs Express Javascript
