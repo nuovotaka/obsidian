@@ -31,6 +31,22 @@ coverImg: filename within _assets folder
 ---
 ```
 
+### School
+
+`filepath: 'schools/**/*.md'`
+
+```
+---
+title: 'string'
+teacher: 'string'
+school: 'string'
+created: 'date'
+updated: 'date'
+description: 'string'
+coverImg: filename within _assets folder
+---
+```
+
 ### NowUpdate
 
 `filepath: 'now/*.md'`
