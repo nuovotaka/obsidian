@@ -2,7 +2,7 @@
 title: 未来の働き方を考えよう
 author: ちきりん
 originallyPublished: 2015
-coverImg: chikirin-book-1.png
+coverImg: book.jpeg
 ---
 
 この本の感想についてはブログにて書いていますのでそちらを参考になさってください。
