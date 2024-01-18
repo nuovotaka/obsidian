@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "52bc4e4a250793f4",
+        "id": "aae8ab0aab038a9c",
         "type": "tabs",
         "children": [
           {
-            "id": "f2f7295f595903b9",
+            "id": "7ec608f362f929a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/2023-01-10-obsidian-blog-public.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "9133548078ef8015",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/2023-01-10-obsidian-blog-public.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/2023-01-10-obsidian-blog-public.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/2023-01-10-obsidian-blog-public.md"
+              }
+            }
+          },
+          {
+            "id": "6c63546afba8984a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -137,17 +163,18 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "c87b6567aa1fdff5",
+  "active": "7ec608f362f929a8",
   "lastOpenFiles": [
+    "now/2023-01-12-now.md",
+    "_assets/signature.png",
+    "_assets/programing-code.jpeg",
+    "_assets/book.jpeg",
+    "posts/2023-01-10-obsidian-blog-public.md",
     "Canvas Test.canvas",
     "Canvas Test.md",
-    "now/2023-01-12-now.md",
     "schools/udemy/2023-01-12-typescript.md",
     "schools/udemy/2023-01-12-react.md",
     "books/2022-01-11-chikirin-book-1.md",
-    "_assets/chikirin-book-1.png",
-    "posts/2015-11-05-my-first-post.md",
-    "posts/2023-01-10-obsidian-blog-public.md",
-    "posts/2023-01-10-obsidian-test.md"
+    "_assets/chikirin-book-1.png"
   ]
 }
