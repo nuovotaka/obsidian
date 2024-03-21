@@ -5,7 +5,7 @@ role: "add-on"
 created: "2024-03-21"
 updated: "2024-03-21"
 tools: "SpreadSheet"
-description: "ASSETPRICEJPのガイド”
+description: "ASSETPRICEJPのガイド"
 ---
 
 # ASSETPRICEJP のガイド
