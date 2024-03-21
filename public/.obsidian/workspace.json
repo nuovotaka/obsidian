@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023-01-10-obsidian-blog-public.md",
+                "file": "projects/ASSETPRICEJP.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023-01-10-obsidian-blog-public.md",
+                "file": "projects/ASSETPRICEJP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023-01-10-obsidian-blog-public.md",
+                "file": "projects/ASSETPRICEJP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023-01-10-obsidian-blog-public.md"
+                "file": "projects/ASSETPRICEJP.md"
               }
             }
           },
@@ -143,7 +143,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -165,16 +167,19 @@
   },
   "active": "7ec608f362f929a8",
   "lastOpenFiles": [
-    "now/2023-01-12-now.md",
+    "now/2024-03-21-now.md",
+    "projects/ASSETPRICEJP.md",
+    "schools/udemy/2023-01-12-react.md",
+    "books/2022-01-11-chikirin-book-1.md",
+    "posts/2015-11-05-my-first-post.md",
+    "schools/udemy/2023-01-12-typescript.md",
+    "posts/2023-01-10-obsidian-blog-public.md",
+    "projects/ASSETPRICEJP",
     "_assets/signature.png",
     "_assets/programing-code.jpeg",
     "_assets/book.jpeg",
-    "posts/2023-01-10-obsidian-blog-public.md",
     "Canvas Test.canvas",
     "Canvas Test.md",
-    "schools/udemy/2023-01-12-typescript.md",
-    "schools/udemy/2023-01-12-react.md",
-    "books/2022-01-11-chikirin-book-1.md",
     "_assets/chikirin-book-1.png"
   ]
 }
