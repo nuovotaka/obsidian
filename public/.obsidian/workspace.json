@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2021-09-25-Nextjs-Tailwindcss.md",
+                "file": "now/2024-11-12-now.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2021-09-25-Nextjs-Tailwindcss"
+              "title": "2024-11-12-now"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "93bafee781d0e79c",
   "lastOpenFiles": [
+    "posts/2021-09-25-Nextjs-Tailwindcss.md",
     "books/2022-01-11-chikirin-book-1.md",
-    "now/2024-03-21-now.md",
+    "now/2024-11-12-now.md",
     "projects/ASSETPRICEJP.md",
     "schools/udemy/2023-01-12-react.md",
     "posts/2015-11-05-my-first-post.md",
