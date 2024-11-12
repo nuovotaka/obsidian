@@ -7,7 +7,6 @@ updated: "2021-09-29"
 
 ## Nextjs,Tailwind CSS,Vercel,Github の構成図
 
-![構成図](@@baseUrl@@/assets/images/posts/nextjs-chart.png)
 
 記事の管理をマークダウンで記述して管理したかったのと記事と App を分離したかったのでこのような構成になりました。
 
