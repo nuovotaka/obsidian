@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2024-11-12-obsidian-astro-blog.md",
+                "file": "egpa/2024-11-09-leave-hospital.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-11-12-obsidian-astro-blog"
+              "title": "2024-11-09-leave-hospital"
             }
           }
         ]
@@ -187,21 +187,38 @@
   },
   "active": "66a3af9c62b20bfe",
   "lastOpenFiles": [
-    "posts/2023-01-10-obsidian-blog-public.md",
-    "posts/2024-11-12-obsidian-astro-blog.md",
-    "now/2024-11-12-now.md",
-    "posts/2021-09-25-Nextjs-Tailwindcss.md",
-    "books/2022-01-11-chikirin-book-1.md",
-    "projects/ASSETPRICEJP.md",
-    "schools/udemy/2023-01-12-react.md",
-    "posts/2015-11-05-my-first-post.md",
-    "schools/udemy/2023-01-12-typescript.md",
+    "egpa/2024-11-08-enter-hospital.md",
+    "egpa/2024-11-06-enter-hospital.md",
+    "egpa/2024-11-09-leave-hospital.md",
+    "egpa/2024-11-07-enter-hospital.md",
+    "egpa/2024-11-04-enter-hospital.md",
+    "egpa/2024-11-05-enter-hospital.md",
+    "egpa/2024-11-03-enter-hospital.md",
+    "egpa/2024-11-02-enter-hospital.md",
+    "egpa/2024-11-01-enter-hospital.md",
+    "egpa/2024-10-31-enter-hospital.md",
+    "egpa/2024-10-30-enter-hospital.md",
+    "egpa/2018-07-04-enter-hospital.md",
+    "egpa/2024-10-22-outpatient-care.md",
+    "egpa/2024-10-01-outpatient-care.md",
+    "egpa/2024-10-09-home.md",
+    "egpa/2024-09-11-home.md",
+    "egpa/2024-09-25-outpatient-care.md",
+    "egpa/2024-09-24-outpatient-care.md",
+    "egpa/2024-08-29-outpatient-care.md",
+    "egpa/2024-09-17-outpatient-care.md",
+    "egpa/2024-08-14-home.md",
+    "egpa/2024-08-06-outpatient-care.md",
+    "egpa/2024-07-17-home.md",
+    "egpa/2024-07-02-outpatient-care.md",
+    "egpa/2024-06-19-home.md",
+    "egpa/2024-05-21-outpatient-care.md",
+    "egpa",
     "projects/ASSETPRICEJP",
     "_assets/signature.png",
     "_assets/programing-code.jpeg",
     "_assets/book.jpeg",
     "Canvas Test.canvas",
-    "Canvas Test.md",
     "_assets/chikirin-book-1.png"
   ]
 }
