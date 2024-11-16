@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "egpa/2024-11-09-leave-hospital.md",
+                "file": "egpa/2018-07-04-enter-hospital.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-11-09-leave-hospital"
+              "title": "2018-07-04-enter-hospital"
             }
           }
         ]
@@ -187,9 +187,10 @@
   },
   "active": "66a3af9c62b20bfe",
   "lastOpenFiles": [
+    "egpa/2018-06-04-egpa.md",
+    "egpa/2024-11-09-leave-hospital.md",
     "egpa/2024-11-08-enter-hospital.md",
     "egpa/2024-11-06-enter-hospital.md",
-    "egpa/2024-11-09-leave-hospital.md",
     "egpa/2024-11-07-enter-hospital.md",
     "egpa/2024-11-04-enter-hospital.md",
     "egpa/2024-11-05-enter-hospital.md",
@@ -212,7 +213,6 @@
     "egpa/2024-07-17-home.md",
     "egpa/2024-07-02-outpatient-care.md",
     "egpa/2024-06-19-home.md",
-    "egpa/2024-05-21-outpatient-care.md",
     "egpa",
     "projects/ASSETPRICEJP",
     "_assets/signature.png",
