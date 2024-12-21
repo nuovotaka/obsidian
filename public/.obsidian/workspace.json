@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "egpa/2018-07-04-enter-hospital.md",
+                "file": "now/2024-11-12-now.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2018-07-04-enter-hospital"
+              "title": "2024-11-12-now"
+            }
+          },
+          {
+            "id": "0472a5ddfa789205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "egpa/2022-09-17-leave-hospital.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2022-09-17-leave-hospital"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,11 +200,17 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "66a3af9c62b20bfe",
+  "active": "0472a5ddfa789205",
   "lastOpenFiles": [
-    "egpa/2018-06-04-egpa.md",
+    "egpa/2024-12-19-outpatient-care.md",
+    "egpa/2024-11-25-outpatient-care.md",
+    "egpa/2024-10-22-outpatient-care.md",
+    "egpa/2024-09-17-outpatient-care.md",
     "egpa/2024-11-09-leave-hospital.md",
     "egpa/2024-11-08-enter-hospital.md",
+    "now/2024-11-12-now.md",
+    "egpa/2018-07-04-enter-hospital.md",
+    "egpa/2018-06-04-egpa.md",
     "egpa/2024-11-06-enter-hospital.md",
     "egpa/2024-11-07-enter-hospital.md",
     "egpa/2024-11-04-enter-hospital.md",
@@ -199,20 +220,14 @@
     "egpa/2024-11-01-enter-hospital.md",
     "egpa/2024-10-31-enter-hospital.md",
     "egpa/2024-10-30-enter-hospital.md",
-    "egpa/2018-07-04-enter-hospital.md",
-    "egpa/2024-10-22-outpatient-care.md",
     "egpa/2024-10-01-outpatient-care.md",
     "egpa/2024-10-09-home.md",
     "egpa/2024-09-11-home.md",
     "egpa/2024-09-25-outpatient-care.md",
     "egpa/2024-09-24-outpatient-care.md",
     "egpa/2024-08-29-outpatient-care.md",
-    "egpa/2024-09-17-outpatient-care.md",
     "egpa/2024-08-14-home.md",
     "egpa/2024-08-06-outpatient-care.md",
-    "egpa/2024-07-17-home.md",
-    "egpa/2024-07-02-outpatient-care.md",
-    "egpa/2024-06-19-home.md",
     "egpa",
     "projects/ASSETPRICEJP",
     "_assets/signature.png",
