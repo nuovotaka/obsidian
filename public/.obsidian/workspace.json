@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "now/2025-06-17-now.md",
+                "file": "now/now.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-06-17-now"
+              "title": "now"
             }
           }
         ]
@@ -187,7 +187,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "6288c34e70460cd4",
+  "active": "c87b6567aa1fdff5",
   "lastOpenFiles": [
     "egpa/2024-12-19-outpatient-care.md",
     "egpa/2022-09-17-leave-hospital.md",
@@ -196,7 +196,7 @@
     "egpa/2024-09-17-outpatient-care.md",
     "egpa/2024-11-09-leave-hospital.md",
     "egpa/2024-11-08-enter-hospital.md",
-    "now/2025-06-17-now.md",
+    "now/now.md",
     "egpa/2018-07-04-enter-hospital.md",
     "egpa/2018-06-04-egpa.md",
     "egpa/2024-11-06-enter-hospital.md",
