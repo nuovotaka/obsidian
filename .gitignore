@@ -1,2 +1,11 @@
+### Git
+.git
+
+### macOS
 .DS_Store
+
 README.md
+
+### Obsidian
+.obsidian
+.obsidian/*
